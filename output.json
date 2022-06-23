@@ -1,0 +1,1452 @@
+[
+    {
+        "FIO": "Балабаева Анастасия Евгеньевна",
+        "z_total_common": 57,
+        "z_cut_mean": 0.24,
+        "raw": {
+            "communication_competence": 14,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 11,
+            "information_security": 5
+        },
+        "zscore": {
+            "communication_competence": 1.01,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": -0.24,
+            "information_security": -0.92
+        },
+        "percentiles": {
+            "communication_competence": 85,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 34,
+            "information_security": 20
+        }
+    },
+    {
+        "FIO": "Баринова Ольга",
+        "z_total_common": 12,
+        "z_cut_mean": -0.92,
+        "raw": {
+            "communication_competence": 10,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 12,
+            "information_security": 3
+        },
+        "zscore": {
+            "communication_competence": -1.33,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": 0.16,
+            "information_security": -2.1
+        },
+        "percentiles": {
+            "communication_competence": 8,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 53,
+            "information_security": 4
+        }
+    },
+    {
+        "FIO": "Беляев Дмитрий Александрович",
+        "z_total_common": 89,
+        "z_cut_mean": 0.58,
+        "raw": {
+            "communication_competence": 14,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 10,
+            "information_security": 8
+        },
+        "zscore": {
+            "communication_competence": 1.01,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": -0.65,
+            "information_security": 0.84
+        },
+        "percentiles": {
+            "communication_competence": 85,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 20,
+            "information_security": 81
+        }
+    },
+    {
+        "FIO": "Бойкова  Виктория",
+        "z_total_common": 19,
+        "z_cut_mean": -0.54,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 10,
+            "information_security": 5
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": -0.65,
+            "information_security": -0.92
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 20,
+            "information_security": 20
+        }
+    },
+    {
+        "FIO": "Бондик  Анжелика Андреевна",
+        "z_total_common": 49,
+        "z_cut_mean": 0.15,
+        "raw": {
+            "communication_competence": 14,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 12,
+            "information_security": 5
+        },
+        "zscore": {
+            "communication_competence": 1.01,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.16,
+            "information_security": -0.92
+        },
+        "percentiles": {
+            "communication_competence": 85,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 53,
+            "information_security": 20
+        }
+    },
+    {
+        "FIO": "Бородулина  Анастасия",
+        "z_total_common": 54,
+        "z_cut_mean": 0.2,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 11,
+            "information_security": 8
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": -0.24,
+            "information_security": 0.84
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 34,
+            "information_security": 81
+        }
+    },
+    {
+        "FIO": "Вершинина  Мария Васильевна",
+        "z_total_common": 87,
+        "z_cut_mean": 0.56,
+        "raw": {
+            "communication_competence": 11,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 15,
+            "information_security": 10
+        },
+        "zscore": {
+            "communication_competence": -0.74,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": 1.37,
+            "information_security": 2.02
+        },
+        "percentiles": {
+            "communication_competence": 19,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 97,
+            "information_security": 99
+        }
+    },
+    {
+        "FIO": "Гиматдинов  Артур Рашитович",
+        "z_total_common": 39,
+        "z_cut_mean": 0.05,
+        "raw": {
+            "communication_competence": 14,
+            "search_storage_transfer_digital_content": 7,
+            "creation_digital_content": 12,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": 1.01,
+            "search_storage_transfer_digital_content": -1.22,
+            "creation_digital_content": 0.16,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 85,
+            "search_storage_transfer_digital_content": 11,
+            "creation_digital_content": 53,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Глебов  Артем Алексеевич",
+        "z_total_common": 62,
+        "z_cut_mean": 0.3,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 12,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.16,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 53,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Голова  Александра",
+        "z_total_common": 20,
+        "z_cut_mean": -0.44,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 7,
+            "creation_digital_content": 10,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": -1.22,
+            "creation_digital_content": -0.65,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 11,
+            "creation_digital_content": 20,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Гречкин Андрей Витальевич",
+        "z_total_common": 49,
+        "z_cut_mean": 0.15,
+        "raw": {
+            "communication_competence": 14,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 12,
+            "information_security": 5
+        },
+        "zscore": {
+            "communication_competence": 1.01,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.16,
+            "information_security": -0.92
+        },
+        "percentiles": {
+            "communication_competence": 85,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 53,
+            "information_security": 20
+        }
+    },
+    {
+        "FIO": "Громов  Антон Игоревич",
+        "z_total_common": 6,
+        "z_cut_mean": -1.09,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 6,
+            "creation_digital_content": 7,
+            "information_security": 6
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": -2,
+            "creation_digital_content": -1.86,
+            "information_security": -0.34
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 6,
+            "creation_digital_content": 5,
+            "information_security": 32
+        }
+    },
+    {
+        "FIO": "Девликанов Марат Абувякярович",
+        "z_total_common": 46,
+        "z_cut_mean": 0.11,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 7,
+            "creation_digital_content": 14,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": -1.22,
+            "creation_digital_content": 0.97,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 11,
+            "creation_digital_content": 85,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Демин Дмитрий Алексеевич",
+        "z_total_common": 58,
+        "z_cut_mean": 0.25,
+        "raw": {
+            "communication_competence": 11,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 14,
+            "information_security": 6
+        },
+        "zscore": {
+            "communication_competence": -0.74,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": 0.97,
+            "information_security": -0.34
+        },
+        "percentiles": {
+            "communication_competence": 19,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 85,
+            "information_security": 32
+        }
+    },
+    {
+        "FIO": "Другалев Анатолий Сергеевич",
+        "z_total_common": 78,
+        "z_cut_mean": 0.49,
+        "raw": {
+            "communication_competence": 15,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 11,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": 1.6,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": -0.24,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 97,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 34,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Дубровина  Ольга Юрьевна",
+        "z_total_common": 42,
+        "z_cut_mean": 0.06,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 14,
+            "information_security": 4
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.97,
+            "information_security": -1.51
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 85,
+            "information_security": 11
+        }
+    },
+    {
+        "FIO": "Душина Юлия Александровна",
+        "z_total_common": 60,
+        "z_cut_mean": 0.26,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 15,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": 1.37,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 97,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Елисеев  Александр Михайлович",
+        "z_total_common": 73,
+        "z_cut_mean": 0.4,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 13,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.56,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 70,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Ермакова  Дарья Дмитриевна",
+        "z_total_common": 54,
+        "z_cut_mean": 0.2,
+        "raw": {
+            "communication_competence": 14,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 11,
+            "information_security": 6
+        },
+        "zscore": {
+            "communication_competence": 1.01,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": -0.24,
+            "information_security": -0.34
+        },
+        "percentiles": {
+            "communication_competence": 85,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 34,
+            "information_security": 32
+        }
+    },
+    {
+        "FIO": "Иванов  Николай Алексеевич",
+        "z_total_common": 66,
+        "z_cut_mean": 0.35,
+        "raw": {
+            "communication_competence": 11,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 12,
+            "information_security": 8
+        },
+        "zscore": {
+            "communication_competence": -0.74,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": 0.16,
+            "information_security": 0.84
+        },
+        "percentiles": {
+            "communication_competence": 19,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 53,
+            "information_security": 81
+        }
+    },
+    {
+        "FIO": "Каменщикова  Татьяна Николаевна",
+        "z_total_common": 27,
+        "z_cut_mean": -0.15,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 11,
+            "information_security": 6
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": -0.24,
+            "information_security": -0.34
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 34,
+            "information_security": 32
+        }
+    },
+    {
+        "FIO": "Керчелаева Мариана Борисовна",
+        "z_total_common": 73,
+        "z_cut_mean": 0.4,
+        "raw": {
+            "communication_competence": 11,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 14,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -0.74,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": 0.97,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 19,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 85,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Клименко  Юлия",
+        "z_total_common": 34,
+        "z_cut_mean": -0,
+        "raw": {
+            "communication_competence": 11,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 10,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -0.74,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": -0.65,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 19,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 20,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Колесниченко  Екатерина",
+        "z_total_common": 73,
+        "z_cut_mean": 0.4,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 13,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.56,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 70,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Корольков  Юрий Викторович",
+        "z_total_common": 62,
+        "z_cut_mean": 0.3,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 11,
+            "information_security": 9
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": -0.24,
+            "information_security": 1.43
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 34,
+            "information_security": 93
+        }
+    },
+    {
+        "FIO": "Кочугина Рахиля Шакировна",
+        "z_total_common": 30,
+        "z_cut_mean": -0.14,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 14,
+            "information_security": 4
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": 0.97,
+            "information_security": -1.51
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 85,
+            "information_security": 11
+        }
+    },
+    {
+        "FIO": "Кременевская  Ангелина Михайловна",
+        "z_total_common": 68,
+        "z_cut_mean": 0.36,
+        "raw": {
+            "communication_competence": 11,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 14,
+            "information_security": 8
+        },
+        "zscore": {
+            "communication_competence": -0.74,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.97,
+            "information_security": 0.84
+        },
+        "percentiles": {
+            "communication_competence": 19,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 85,
+            "information_security": 81
+        }
+    },
+    {
+        "FIO": "Крупенева  Елена",
+        "z_total_common": 65,
+        "z_cut_mean": 0.34,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 12,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": 0.16,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 53,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Крылова  Анна Алексеевна",
+        "z_total_common": 82,
+        "z_cut_mean": 0.54,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 13,
+            "information_security": 8
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.56,
+            "information_security": 0.84
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 70,
+            "information_security": 81
+        }
+    },
+    {
+        "FIO": "Кудрявцева Екатерина Сергеевна",
+        "z_total_common": 34,
+        "z_cut_mean": 0,
+        "raw": {
+            "communication_competence": 11,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 12,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -0.74,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.16,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 19,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 53,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Кучерявый Павел Вадимович",
+        "z_total_common": 52,
+        "z_cut_mean": 0.16,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 14,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": 0.97,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 85,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Лаптева Елена Николаевна",
+        "z_total_common": 90,
+        "z_cut_mean": 0.7,
+        "raw": {
+            "communication_competence": 15,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 15,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": 1.6,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": 1.37,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 97,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 97,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Ларичева Елена Александровна",
+        "z_total_common": 37,
+        "z_cut_mean": 0.01,
+        "raw": {
+            "communication_competence": 11,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 14,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -0.74,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": 0.97,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 19,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 85,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Леонидова Юлия Андреевна",
+        "z_total_common": 31,
+        "z_cut_mean": -0.04,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 12,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": 0.16,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 53,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Леонтьева Екатерина Андреевна",
+        "z_total_common": 82,
+        "z_cut_mean": 0.54,
+        "raw": {
+            "communication_competence": 15,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 13,
+            "information_security": 6
+        },
+        "zscore": {
+            "communication_competence": 1.6,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.56,
+            "information_security": -0.34
+        },
+        "percentiles": {
+            "communication_competence": 97,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 70,
+            "information_security": 32
+        }
+    },
+    {
+        "FIO": "Малышева Елена",
+        "z_total_common": 24,
+        "z_cut_mean": -0.3,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 8,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": -1.45,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 8,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Моисеенков Андрей Дмитриевич",
+        "z_total_common": 27,
+        "z_cut_mean": -0.15,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 11,
+            "information_security": 6
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": -0.24,
+            "information_security": -0.34
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 34,
+            "information_security": 32
+        }
+    },
+    {
+        "FIO": "Молодцова Вероника Игоревна",
+        "z_total_common": 22,
+        "z_cut_mean": -0.35,
+        "raw": {
+            "communication_competence": 11,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 8,
+            "information_security": 6
+        },
+        "zscore": {
+            "communication_competence": -0.74,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": -1.45,
+            "information_security": -0.34
+        },
+        "percentiles": {
+            "communication_competence": 19,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 8,
+            "information_security": 32
+        }
+    },
+    {
+        "FIO": "Морозов  Владимир Анатольевич",
+        "z_total_common": 93,
+        "z_cut_mean": 0.74,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 13,
+            "information_security": 8
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": 0.56,
+            "information_security": 0.84
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 70,
+            "information_security": 81
+        }
+    },
+    {
+        "FIO": "Морозова  Ольга Сергеевна",
+        "z_total_common": 95,
+        "z_cut_mean": 0.75,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 15,
+            "information_security": 9
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 1.37,
+            "information_security": 1.43
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 97,
+            "information_security": 93
+        }
+    },
+    {
+        "FIO": "Новиков Евгений Юрьевич",
+        "z_total_common": 14,
+        "z_cut_mean": -0.88,
+        "raw": {
+            "communication_competence": 9,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 9,
+            "information_security": 5
+        },
+        "zscore": {
+            "communication_competence": -1.92,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": -1.05,
+            "information_security": -0.92
+        },
+        "percentiles": {
+            "communication_competence": 5,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 12,
+            "information_security": 20
+        }
+    },
+    {
+        "FIO": "Паймулкин Михаил Робертович",
+        "z_total_common": 93,
+        "z_cut_mean": 0.74,
+        "raw": {
+            "communication_competence": 15,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 11,
+            "information_security": 10
+        },
+        "zscore": {
+            "communication_competence": 1.6,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": -0.24,
+            "information_security": 2.02
+        },
+        "percentiles": {
+            "communication_competence": 97,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 34,
+            "information_security": 99
+        }
+    },
+    {
+        "FIO": "Петренко  Елена Андреевна",
+        "z_total_common": 42,
+        "z_cut_mean": 0.06,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 13,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": 0.56,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 70,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Петухова Наталья Александровна",
+        "z_total_common": 1,
+        "z_cut_mean": -2.09,
+        "raw": {
+            "communication_competence": 6,
+            "search_storage_transfer_digital_content": 6,
+            "creation_digital_content": 7,
+            "information_security": 4
+        },
+        "zscore": {
+            "communication_competence": -3,
+            "search_storage_transfer_digital_content": -2,
+            "creation_digital_content": -1.86,
+            "information_security": -1.51
+        },
+        "percentiles": {
+            "communication_competence": 1,
+            "search_storage_transfer_digital_content": 6,
+            "creation_digital_content": 5,
+            "information_security": 11
+        }
+    },
+    {
+        "FIO": "Попкова Юлия Халиловна",
+        "z_total_common": 16,
+        "z_cut_mean": -0.79,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 9,
+            "information_security": 4
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": -1.05,
+            "information_security": -1.51
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 12,
+            "information_security": 11
+        }
+    },
+    {
+        "FIO": "Попов  Вячеслав Викторович",
+        "z_total_common": 37,
+        "z_cut_mean": 0.01,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 14,
+            "information_security": 6
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": 0.97,
+            "information_security": -0.34
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 85,
+            "information_security": 32
+        }
+    },
+    {
+        "FIO": "Прохвостова  Алина Владимировна",
+        "z_total_common": 3,
+        "z_cut_mean": -1.92,
+        "raw": {
+            "communication_competence": 10,
+            "search_storage_transfer_digital_content": 4,
+            "creation_digital_content": 1,
+            "information_security": 6
+        },
+        "zscore": {
+            "communication_competence": -1.33,
+            "search_storage_transfer_digital_content": -3,
+            "creation_digital_content": -3,
+            "information_security": -0.34
+        },
+        "percentiles": {
+            "communication_competence": 8,
+            "search_storage_transfer_digital_content": 1,
+            "creation_digital_content": 1,
+            "information_security": 32
+        }
+    },
+    {
+        "FIO": "Пучкова Марина Владиславовна",
+        "z_total_common": 100,
+        "z_cut_mean": 1.14,
+        "raw": {
+            "communication_competence": 15,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 14,
+            "information_security": 8
+        },
+        "zscore": {
+            "communication_competence": 1.6,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": 0.97,
+            "information_security": 0.84
+        },
+        "percentiles": {
+            "communication_competence": 97,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 85,
+            "information_security": 81
+        }
+    },
+    {
+        "FIO": "Романов Александр Сергеевич",
+        "z_total_common": 9,
+        "z_cut_mean": -0.98,
+        "raw": {
+            "communication_competence": 9,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 11,
+            "information_security": 3
+        },
+        "zscore": {
+            "communication_competence": -1.92,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": -0.24,
+            "information_security": -2.1
+        },
+        "percentiles": {
+            "communication_competence": 5,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 34,
+            "information_security": 4
+        }
+    },
+    {
+        "FIO": "Садомова  Елена",
+        "z_total_common": 97,
+        "z_cut_mean": 0.84,
+        "raw": {
+            "communication_competence": 14,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 13,
+            "information_security": 9
+        },
+        "zscore": {
+            "communication_competence": 1.01,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.56,
+            "information_security": 1.43
+        },
+        "percentiles": {
+            "communication_competence": 85,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 70,
+            "information_security": 93
+        }
+    },
+    {
+        "FIO": "Свирин  Роман Романович",
+        "z_total_common": 76,
+        "z_cut_mean": 0.44,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 12,
+            "information_security": 9
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.16,
+            "information_security": 1.43
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 53,
+            "information_security": 93
+        }
+    },
+    {
+        "FIO": "Сидорова  Вера Дмитриевна",
+        "z_total_common": 85,
+        "z_cut_mean": 0.55,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 14,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": 0.97,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 85,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Таранцова Наталья Ивановна",
+        "z_total_common": 44,
+        "z_cut_mean": 0.09,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 10,
+            "information_security": 8
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": -0.65,
+            "information_security": 0.84
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 20,
+            "information_security": 81
+        }
+    },
+    {
+        "FIO": "Тарасенко  Дмитрий Александрович",
+        "z_total_common": 8,
+        "z_cut_mean": -1.04,
+        "raw": {
+            "communication_competence": 8,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 6,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": -2.5,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": -2.26,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 3,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 3,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Титова  Анна Александровна",
+        "z_total_common": 17,
+        "z_cut_mean": -0.73,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 11,
+            "information_security": 3
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": -0.24,
+            "information_security": -2.1
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 34,
+            "information_security": 4
+        }
+    },
+    {
+        "FIO": "Ткаченко  Алла Анатольевна",
+        "z_total_common": 4,
+        "z_cut_mean": -1.57,
+        "raw": {
+            "communication_competence": 11,
+            "search_storage_transfer_digital_content": 5,
+            "creation_digital_content": 10,
+            "information_security": 3
+        },
+        "zscore": {
+            "communication_competence": -0.74,
+            "search_storage_transfer_digital_content": -2.78,
+            "creation_digital_content": -0.65,
+            "information_security": -2.1
+        },
+        "percentiles": {
+            "communication_competence": 19,
+            "search_storage_transfer_digital_content": 3,
+            "creation_digital_content": 20,
+            "information_security": 4
+        }
+    },
+    {
+        "FIO": "Тутушкина Евгения Евгеньевна",
+        "z_total_common": 98,
+        "z_cut_mean": 0.89,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 13,
+            "information_security": 9
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": 0.56,
+            "information_security": 1.43
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 70,
+            "information_security": 93
+        }
+    },
+    {
+        "FIO": "Фокеев Максим Александрович",
+        "z_total_common": 82,
+        "z_cut_mean": 0.54,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 11,
+            "information_security": 8
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": -0.24,
+            "information_security": 0.84
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 34,
+            "information_security": 81
+        }
+    },
+    {
+        "FIO": "Халиулина Ольга",
+        "z_total_common": 25,
+        "z_cut_mean": -0.19,
+        "raw": {
+            "communication_competence": 13,
+            "search_storage_transfer_digital_content": 6,
+            "creation_digital_content": 13,
+            "information_security": 7
+        },
+        "zscore": {
+            "communication_competence": 0.43,
+            "search_storage_transfer_digital_content": -2,
+            "creation_digital_content": 0.56,
+            "information_security": 0.25
+        },
+        "percentiles": {
+            "communication_competence": 66,
+            "search_storage_transfer_digital_content": 6,
+            "creation_digital_content": 70,
+            "information_security": 57
+        }
+    },
+    {
+        "FIO": "Цуканова Анна Евгеньевна",
+        "z_total_common": 11,
+        "z_cut_mean": -0.93,
+        "raw": {
+            "communication_competence": 11,
+            "search_storage_transfer_digital_content": 8,
+            "creation_digital_content": 9,
+            "information_security": 4
+        },
+        "zscore": {
+            "communication_competence": -0.74,
+            "search_storage_transfer_digital_content": -0.43,
+            "creation_digital_content": -1.05,
+            "information_security": -1.51
+        },
+        "percentiles": {
+            "communication_competence": 19,
+            "search_storage_transfer_digital_content": 28,
+            "creation_digital_content": 12,
+            "information_security": 11
+        }
+    },
+    {
+        "FIO": "Чалавиев Гаджи-Эфенди Давудович",
+        "z_total_common": 70,
+        "z_cut_mean": 0.39,
+        "raw": {
+            "communication_competence": 14,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 11,
+            "information_security": 6
+        },
+        "zscore": {
+            "communication_competence": 1.01,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": -0.24,
+            "information_security": -0.34
+        },
+        "percentiles": {
+            "communication_competence": 85,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 34,
+            "information_security": 32
+        }
+    },
+    {
+        "FIO": "Язев  Виктор",
+        "z_total_common": 49,
+        "z_cut_mean": 0.15,
+        "raw": {
+            "communication_competence": 14,
+            "search_storage_transfer_digital_content": 9,
+            "creation_digital_content": 12,
+            "information_security": 5
+        },
+        "zscore": {
+            "communication_competence": 1.01,
+            "search_storage_transfer_digital_content": 0.35,
+            "creation_digital_content": 0.16,
+            "information_security": -0.92
+        },
+        "percentiles": {
+            "communication_competence": 85,
+            "search_storage_transfer_digital_content": 60,
+            "creation_digital_content": 53,
+            "information_security": 20
+        }
+    },
+    {
+        "FIO": "Яловенко  Ярослав Александрович",
+        "z_total_common": 78,
+        "z_cut_mean": 0.49,
+        "raw": {
+            "communication_competence": 12,
+            "search_storage_transfer_digital_content": 10,
+            "creation_digital_content": 12,
+            "information_security": 8
+        },
+        "zscore": {
+            "communication_competence": -0.16,
+            "search_storage_transfer_digital_content": 1.13,
+            "creation_digital_content": 0.16,
+            "information_security": 0.84
+        },
+        "percentiles": {
+            "communication_competence": 41,
+            "search_storage_transfer_digital_content": 89,
+            "creation_digital_content": 53,
+            "information_security": 81
+        }
+    }
+]
+
