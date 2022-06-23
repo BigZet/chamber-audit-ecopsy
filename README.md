@@ -13,9 +13,9 @@ JSON в кодировке в UTF-8
 ```
 [
     {
-        "FIO": "Титова  Анна Александровна",
-        "z_total_common": 17,
-        "z_cut_mean": -0.73,
+        "FIO": "Титова  Анна Александровна", # ФИО респондента
+        "z_total_common": 17, # Итоговая оценка по всем шкалам
+        "z_cut_mean": -0.73, # Средняя оценка обрезанных на 3 отклонения z-value
         "raw": {
             "communication_competence": 12,
             "search_storage_transfer_digital_content": 8,
